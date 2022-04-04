@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Snir David Nahari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 3rd year in Bar Ilan University
+- 👋 Hi, I’m Snir David Nahari!
+- 👀 I’m interested in Machine Learning (AI, Deep Learining, Evolution Algorithm), CyberSecurity, Paralellism, 
+- and actually almost every aspect and topic of CS.
+- 🌱 I’m currently working as software developer in Radware.Ltd. 
 
 
 <!---
