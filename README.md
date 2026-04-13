@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Snir David Nahari!
-- 👀 I’m interested in Machine Learning (AI, Deep Learining, Evolution Algorithm), CyberSecurity, Paralellism, 
-- and actually almost every aspect and topic of CS.
-- 🌱 I’m currently working as software developer in Radware.Ltd. 
+- 👀 I’m interested in Machine Learning (AI, Deep Learining, Evolution Algorithm), CyberSecurity and actually almost every aspect and topic of CS.
+- 🌱 I’m currently working as software developer in MSC (Microsoft Specialized Cloud). 
 
 
 <!---
